@@ -1,3 +1,2 @@
-print("Hello World")
-print(1234)
-print(True)
+name: tuple[str, int, float] = ("Saeed", 12, 50)
+print(name)
